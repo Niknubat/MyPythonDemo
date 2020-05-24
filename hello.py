@@ -3,3 +3,4 @@ input ()
 # Тренеровка сохранений в GIT
 
 print ('bugFix')
+# отправка на Github
